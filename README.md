@@ -37,9 +37,14 @@ Follow these steps to set up the bot for your Discord server:
    ```
 
 2. **Compile to jar using maven**
+   ```bash
+   mvn clean install
+   ```
 
 3. **Start the bot**
-- java -jar [name of your file].jar
+   ```bash
+   java -jar [name of your file].jar
+   ```
 
 4. **Invite the Bot to Your Server:**
 - Create a new application and invite the bot to your Discord server.
@@ -61,7 +66,6 @@ We welcome contributions from the community! If you'd like to contribute to the 
 
 
 If you have any questions, issues, or suggestions, feel free to open an [issue](https://github.com/Devuxious/Discord-Utility-Bot/issues).
-
 
 <p align="center">
   <img src="https://img.shields.io/github/license/Devuxious/Discord-Utility-Bot.svg?style=for-the-badge&labelColor=black&color=FF7F7F&logo=IOTA"/>
