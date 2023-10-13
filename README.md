@@ -72,6 +72,6 @@ If you have any questions, issues, or suggestions, feel free to open an [issue](
 
 <p align="center">
   <img src="https://img.shields.io/github/license/Devuxious/Discord-Utility-Bot.svg?style=for-the-badge&labelColor=black&color=FF7F7F&logo=IOTA"/>
-  <img src="https://img.shields.io/github/stars/DevuxiousDiscord-Utility-Bot.svg?style=for-the-badge&labelColor=black&color=FF7F7F&logo=IOTA"/>
+  <img src="https://img.shields.io/github/stars/Devuxious/Discord-Utility-Bot.svg?style=for-the-badge&labelColor=black&color=FF7F7F&logo=IOTA"/>
   <img src="https://img.shields.io/github/languages/top/Devuxious/Discord-Utility-Bot.svg?style=for-the-badge&labelColor=black&color=FF7F7F&logo=java"/>
 </p>
