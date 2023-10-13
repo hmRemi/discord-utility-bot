@@ -2,6 +2,9 @@
 
 This Discord bot is a powerful moderation tool developed in Java using the JDA (Java Discord API) library. It's designed to help server administrators and moderators maintain a well-managed and safe server environment while also providing a fun feature for Hypixel Minecraft server enthusiasts.
 
+![Discord Utility Bot](https://img.shields.io/badge/version-1.0.0-FF7F7F)
+![Discord Utility Bot](https://img.shields.io/badge/author-%E2%9C%9F-FF7F7F)
+
 ## Features
 
 ### 1. Moderation Commands
